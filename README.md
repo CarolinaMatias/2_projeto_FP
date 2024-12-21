@@ -16,7 +16,7 @@ Os jogadores, em turnos alternados, podem movimentar uma pedra do adversário e,
 
 🎯 **Objetivo**
 
-O objetivo do jogo é alinhar k = 4 pedras consecutivas da próprias, seja horizontalmente, verticalmente ou diagonalmente, ao final de uma jogada.
+O objetivo do jogo é alinhar k = 4 pedras consecutivas próprias, seja horizontalmente, verticalmente ou diagonalmente, ao final de uma jogada.
 ***
 
 
